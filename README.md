@@ -1,6 +1,6 @@
 # Docker Symfony (MySQL - ELK)
 
-Simple docker setup to run a Mysql database. Also comes with an elk stack to display logs.
+Simple docker setup to run a Mysql database. Also comes with an elk stack to display logs, and Adminer to manage the database.
 Based on [Docker-Symfony](https://github.com/maxpou/docker-symfony)
 
 ## Installation
